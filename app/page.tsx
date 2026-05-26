@@ -43,7 +43,7 @@ export default function Home() {
 
       {/* フッター */}
       <p className="mt-12 text-green-600 text-sm">
-        麻雀クイズ道場 — 副業エンジニアへの道
+        麻雀クイズ道場
       </p>
 
     </main>
